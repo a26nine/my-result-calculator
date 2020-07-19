@@ -1,0 +1,20 @@
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\Interop.ADOX.dll
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\AB's Result Calculator.vbproj.ResolveComReference.cache
+E:\AB's Result Calculator\AB's Result Calculator\bin\Debug\My Result Calculator.exe
+E:\AB's Result Calculator\AB's Result Calculator\bin\Debug\My Result Calculator.pdb
+E:\AB's Result Calculator\AB's Result Calculator\bin\Debug\My Result Calculator.xml
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.exe
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.xml
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.pdb
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My_Result_Calculator.Form1.resources
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My_Result_Calculator.Form2.resources
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My_Result_Calculator.Form3.resources
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My_Result_Calculator.Form4.resources
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My_Result_Calculator.Form5.resources
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My_Result_Calculator.Form6.resources
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My_Result_Calculator.Form7.resources
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My_Result_Calculator.Form8.resources
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My_Result_Calculator.Resources.resources

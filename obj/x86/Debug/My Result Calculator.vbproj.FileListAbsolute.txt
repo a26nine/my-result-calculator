@@ -1,0 +1,10 @@
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\Interop.ADOX.dll
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.vbproj.ResolveComReference.cache
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.exe
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.xml
+E:\AB's Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.pdb
+E:\My Result Calculator\AB's Result Calculator\obj\x86\Debug\Interop.ADOX.dll
+E:\My Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.vbproj.ResolveComReference.cache
+E:\My Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.exe
+E:\My Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.xml
+E:\My Result Calculator\AB's Result Calculator\obj\x86\Debug\My Result Calculator.pdb
