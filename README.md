@@ -1,1 +1,15 @@
-# my-result-calculator
+# My Result Calculator
+
+![1](Resources/1.jpg)
+![2](Resources/2.jpg)
+![3](Resources/3.jpg)
+![4](Resources/4.jpg)
+![5](Resources/5.jpg)
+![6](Resources/6.jpg)
+![7](Resources/7.jpg)
+![8](Resources/8.jpg)
+![9](Resources/9.jpg)
+![10](Resources/10.jpg)
+![11](Resources/11.jpg)
+![12](Resources/12.jpg)
+![13](Resources/13.jpg)
